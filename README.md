@@ -7,3 +7,5 @@
 # Where from Gothenburg are you from Serge? / JS
 
 # I'm from Bergsjön. Have you been there?
+
+# Yes I have been to Bergsjön! I have been to Stjärnbildsgatan!
